@@ -1,7 +1,5 @@
   
 streamlit==0.52.2
-jupyter-server-proxy==1.2.0
-nbserverproxy==0.8.8
 fastai>=0.0.16
 pillow<7
 packaging
