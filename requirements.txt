@@ -1,13 +1,8 @@
   
-gunicorn
-flask
-numpy
-# that torch version would work fine on MacOS
-# torch==1.1.0
-#
-# we have to use this version for Heroku
-https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
-torchvision==0.2.2
-fastai==1.0.52
-tqdm==4.38.0
-jupyter
+streamlit==0.52.2
+jupyter-server-proxy==1.2.0
+nbserverproxy==0.8.8
+fastai>=0.0.16
+pillow<7
+packaging
+ipywidgets==7.5.1
