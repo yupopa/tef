@@ -6,7 +6,7 @@ st.title("WELCOME CAT DOG CLASSIFIER")
 st.title("cat dog classifer")
 uploaded_file = st.file_uploader("Choose an image...", type="jpg")
 #file upload
-learn_inf = load_learner("export.pkl")#load trained model
+learn_inf = load_learner("exportt.pkl")#load trained model
 #classification
 
 
