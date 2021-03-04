@@ -1,6 +1,6 @@
   
-streamlit==0.52.2
-fastai>=0.0.16
-pillow<7
+streamli
+fastai
+pillow
 packaging
-ipywidgets==7.5.1
+ipywidgets
