@@ -1,5 +1,5 @@
   
-streamli
+streamlit
 fastai
 pillow
 packaging
